@@ -1,5 +1,5 @@
 # :octocat: Stephane Leandre Paul :octocat:
 
-Senior Web Developer
+Senior Full-Stack Engineer @ theproductshop
 
 **Projects**
